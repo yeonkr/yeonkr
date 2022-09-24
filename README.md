@@ -5,44 +5,43 @@
 </div>
 
 <p align="center">🇰🇷 🎵 🛠 </p>
-
+<br>
 <h3 align="center">🔨 Tech Stack 🔧</h3>
 
-<p align="center"> Techs that I've used at least once </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=Styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white" />
   <br>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
-  
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/> 
-  <a href="https://github.com/yeonkr”><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/</a> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <br>
 </p>
 
-<br>
+<br><br>
 
 <h3 align="center">📚 Blog 📚</h3>
 
 <div align="center" style="text-align:center">
   
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonkr)](https://velog.io/@yeonkr)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonkr&tag=JavaScript)](https://github.com/yeonkr/velog-readme-stats)
+
 
 </div>
   
-<br>
-
+<br><br>
 
 <h3 align="center"> 🌲 Me 🌲</h3>
 <p align="center">    
  <a href="https://velog.io/@yeonkr"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yeonkr"/></a>&nbsp
  <a href="mailto:1714882@sookmyung.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=1714882@sookmyung.ac.kr"></a>
 </p>
-<br>
+
+<br><br>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
