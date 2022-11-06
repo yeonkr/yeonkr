@@ -4,9 +4,9 @@
 
 </div>
 
-<p align="center">🇰🇷 🎵 🛠 </p>
+<p align="center">🇰🇷 </p>
 <br>
-<h3 align="center">🔨 Tech Stack 🔧</h3>
+<h3 align="center">🛠 Tech Stack 🛠</h3>
 
 
 <p align="center">
@@ -34,6 +34,7 @@
  <a href="mailto:dev.yeonju@gmail.com "><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dev.yeonju@gmail.com"></a>
 </p>
 
+<br><br>
 <br><br>
 
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
