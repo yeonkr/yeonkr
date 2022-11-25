@@ -14,12 +14,8 @@
 
 ## Tech Stack
 <p>
-<img src="https://img.shields.io/badge/HTML5-F6F8FA?style=flat-square&logo=HTML5&logoColor=24292F"/>&nbsp;
-<img src="https://img.shields.io/badge/CSS-F6F8FA?style=flat-square&logo=CSS3&logoColor=24292F"/>&nbsp;
-<img src="https://img.shields.io/badge/StyledComponents-F6F8FA?style=flat-square&logo=Styled-components&logoColor=24292F"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F6F8FA?style=flat-square&logo=JavaScript&logoColor=24292F"/>&nbsp;
 <img src="https://img.shields.io/badge/React-F6F8FA?style=flat-square&logo=React&logoColor=24292F"/>&nbsp;
-<img src="https://img.shields.io/badge/Node.js-F6F8FA?style=flat-square&logo=Node.js&logoColor=24292F"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-F6F8FA?style=flat-square&logo=TypeScript&logoColor=24292F"/>&nbsp;
 <img src="https://img.shields.io/badge/Next-F6F8FA?style=flat-square&logo=Next.js&logoColor=24292F"/><br/>
 </p>
