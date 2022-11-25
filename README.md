@@ -30,12 +30,6 @@
 
 <br><br>
 
-## Blog
-
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonkr)](https://velog.io/@yeonkr)
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonkr&tag="javascript")](https://velog.io/@yeonkr)
-
-<br><br>
 
 ## Contact
 <p>    
