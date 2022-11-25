@@ -1,49 +1,46 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=300&section=header&text=Yeonju&fontSize=70&animation=twinkling)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yeonju&fontSize=100) -->
 
-</div>
+<img src="https://capsule-render.vercel.app/api?text=Yeon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kr&fontColor=000000&type=soft&color=FFFFFF&animation=twinkling&fontSize=130&height=200"/></div>
 
-<p align="center">🇰🇷 </p>
-<br>
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<br><br>
 
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=Styled-components&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
-  <br>
+## Tech Stack
+<p>
+<img src="https://img.shields.io/badge/HTML5-white?style=flat-square&logo=HTML5&logoColor=24292F"/>&nbsp;
+<img src="https://img.shields.io/badge/CSS-white?style=flat-square&logo=CSS3&logoColor=24292F"/>&nbsp;
+<img src="https://img.shields.io/badge/StyledComponents-white?style=flat-square&logo=Styled-components&logoColor=24292F"/>&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-white?style=flat-square&logo=JavaScript&logoColor=24292F"/>&nbsp;
+<img src="https://img.shields.io/badge/React-white?style=flat-square&logo=React&logoColor=24292F"/>&nbsp;
+<img src="https://img.shields.io/badge/Node.js-white?style=flat-square&logo=Node.js&logoColor=24292F"/>&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-white?style=flat-square&logo=TypeScript&logoColor=24292F"/>&nbsp;
 </p>
 
 <br><br>
 
-
-</div>
-  
-<br><br>
-
-<h3 align="center"> 🌲 Me 🌲</h3>
-<p align="center">    
- <a href="https://velog.io/@yeonkr"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yeonkr"/></a>&nbsp
- <a href="mailto:dev.yeonju@gmail.com "><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=dev.yeonju@gmail.com"></a>
+## Tool
+<p>
+<img src="https://img.shields.io/badge/Figma-white?style=flat-square&logo=figma&logoColor=24292F"/>&nbsp;
+<img src="https://img.shields.io/badge/Git-white?style=flat-square&logo=git&logoColor=24292F"/>&nbsp;
+<img src="https://img.shields.io/badge/Slack-white?style=flat-square&logo=slack&logoColor=24292F"/>&nbsp;
+<img src="https://img.shields.io/badge/Notion-white?style=flat-square&logo=notion&logoColor=24292F"/>&nbsp;
 </p>
 
 <br><br>
+
+## Blog
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonkr)](https://velog.io/@yeonkr)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=yeonkr&tag="javascript")](https://velog.io/@yeonkr)
+
 <br><br>
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
-<div align="center">
-  
-[![Yeonju's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeonkr&show_icons=true&theme=vue-dark)](https://github.com/yeonkr) 
-
-  
-</div>
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyeonkr&count_bg=%236CC2E6&title_bg=%23A8AAAE&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false"/></a>
+## Contact
+<p>    
+ <a href="https://velog.io/@yeonkr"><img src="https://img.shields.io/badge/Tech%20Blog-black?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yeonkr"/></a>&nbsp;
+ <a href="mailto:dev.yeonju@gmail.com "><img src="https://img.shields.io/badge/Gmail-black?style=flat-square&logo=Gmail&logoColor=white&link=dev.yeonju@gmail.com"></a>
 </p>
+
+<br><br>
+
