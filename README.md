@@ -6,6 +6,14 @@
 
 <br><br>
 
+## Contact
+<p>    
+ <a href="https://velog.io/@yeonkr"><img src="https://img.shields.io/badge/Tech%20Blog-F6F8FA?style=flat-square&logo=Vimeo&logoColor=24292F&link=https://velog.io/@yeonkr"/></a>&nbsp;
+ <a href="mailto:dev.yeonju@gmail.com "><img src="https://img.shields.io/badge/Gmail-F6F8FA?style=flat-square&logo=Gmail&logoColor=24292F&link=dev.yeonju@gmail.com"></a>
+</p>
+
+<br><br>
+
 ## Tech Stack
 <p>
 <img src="https://img.shields.io/badge/HTML5-F6F8FA?style=flat-square&logo=HTML5&logoColor=24292F"/>&nbsp;
@@ -26,15 +34,6 @@
 <img src="https://img.shields.io/badge/Git-F6F8FA?style=flat-square&logo=git&logoColor=24292F"/>&nbsp;
 <img src="https://img.shields.io/badge/Slack-F6F8FA?style=flat-square&logo=slack&logoColor=24292F"/>&nbsp;
 <img src="https://img.shields.io/badge/Notion-F6F8FA?style=flat-square&logo=notion&logoColor=24292F"/>&nbsp;
-</p>
-
-<br><br>
-
-
-## Contact
-<p>    
- <a href="https://velog.io/@yeonkr"><img src="https://img.shields.io/badge/Tech%20Blog-F6F8FA?style=flat-square&logo=Vimeo&logoColor=24292F&link=https://velog.io/@yeonkr"/></a>&nbsp;
- <a href="mailto:dev.yeonju@gmail.com "><img src="https://img.shields.io/badge/Gmail-F6F8FA?style=flat-square&logo=Gmail&logoColor=24292F&link=dev.yeonju@gmail.com"></a>
 </p>
 
 <br><br>
