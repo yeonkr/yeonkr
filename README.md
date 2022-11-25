@@ -4,8 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?text=Yeon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kr&fontColor=000000&type=soft&color=FFFFFF&animation=twinkling&fontSize=130&height=300"/></div>
 
-<br><br>
-
 ## Contact
 <p>    
  <a href="https://velog.io/@yeonkr"><img src="https://img.shields.io/badge/Tech%20Blog-F6F8FA?style=flat-square&logo=Vimeo&logoColor=24292F&link=https://velog.io/@yeonkr"/></a>&nbsp;
