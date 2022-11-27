@@ -2,7 +2,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Yeonju&fontSize=100) -->
 
-<img src="https://capsule-render.vercel.app/api?text=Yeon&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;kr&fontColor=000000&type=soft&color=FFFFFF&animation=twinkling&fontSize=130&height=300"/></div>
+<img src="https://capsule-render.vercel.app/api?text=Yeonkr&fontColor=000000&type=soft&color=FFFFFF&animation=twinkling&fontSize=130&height=300"/></div>
 
 ## Contact
 <p>    
