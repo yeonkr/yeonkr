@@ -22,7 +22,7 @@
 
 <br><br>
 
-## Tool
+## Tools
 <p>
 <img src="https://img.shields.io/badge/Figma-F6F8FA?style=flat-square&logo=figma&logoColor=24292F"/>&nbsp;
 <img src="https://img.shields.io/badge/Git-F6F8FA?style=flat-square&logo=git&logoColor=24292F"/>&nbsp;
