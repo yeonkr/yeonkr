@@ -14,20 +14,8 @@
 
 ## Tech Stack
 <p>
-<img src="https://img.shields.io/badge/JavaScript-F6F8FA?style=flat-square&logo=JavaScript&logoColor=24292F"/>&nbsp;
-<img src="https://img.shields.io/badge/React-F6F8FA?style=flat-square&logo=React&logoColor=24292F"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-F6F8FA?style=flat-square&logo=TypeScript&logoColor=24292F"/>&nbsp;
 <img src="https://img.shields.io/badge/Next-F6F8FA?style=flat-square&logo=Next.js&logoColor=24292F"/><br/>
-</p>
-
-<br><br>
-
-## Tools
-<p>
-<img src="https://img.shields.io/badge/Figma-F6F8FA?style=flat-square&logo=figma&logoColor=24292F"/>&nbsp;
-<img src="https://img.shields.io/badge/Git-F6F8FA?style=flat-square&logo=git&logoColor=24292F"/>&nbsp;
-<img src="https://img.shields.io/badge/Slack-F6F8FA?style=flat-square&logo=slack&logoColor=24292F"/>&nbsp;
-<img src="https://img.shields.io/badge/Notion-F6F8FA?style=flat-square&logo=notion&logoColor=24292F"/>&nbsp;
 </p>
 
 <br><br>
