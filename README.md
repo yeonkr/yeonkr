@@ -20,6 +20,6 @@
 <div align="center">
 <a href="https://github.com/devxb/gitanimals">
     <img src="https://render.gitanimals.org/lines/yeonkr?pet-id=1" width="30%" height="100"/>
-    <img src="https://render.gitanimals.org/lines/yeonkr?pet-id=700317931867048892" width="30%" height="100"/>
-  <img src="https://render.gitanimals.org/lines/yeonkr?pet-id=700323745449221999" width="30%" height="100"/>
+    <img src="https://render.gitanimals.org/lines/yeonkr?pet-id=700317931867048892" width="30%" height="300"/>
+  <img src="https://render.gitanimals.org/lines/yeonkr?pet-id=700323745449221999" width="30%" height="300"/>
 </div>
